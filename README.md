@@ -1,23 +1,33 @@
 # Real or Onion
 
-A true/false quiz: is the headline from a real news outlet, or from *The Onion*?
+**[Play it here →](https://nbuist.github.io/real-or-onion/)**
 
-Satire comes from The Onion's RSS feed; real headlines come from
-[r/nottheonion](https://www.reddit.com/r/nottheonion/) and UPI Odd News.
-Headlines and images belong to their publishers, and each card links to the original article.
+The news has gotten strange enough that it's hard to tell real headlines from satire.
+Real or Onion puts that to the test. Each card shows a headline and its article's image,
+and you decide: did it run in a real news outlet, or in *The Onion*?
 
-## Refreshing the headlines
+## How to play
 
-A GitHub Actions workflow (`.github/workflows/refresh-headlines.yml`) runs every Monday
-around noon Eastern, adds any new headlines to the bank, and commits them. You can also
-run it by hand from the Actions tab, or locally:
+1. Pick a round length: 10 cards, 20, or the whole deck.
+2. For each headline, choose **Real news** or **The Onion**. You can also press `1` or `2` on your keyboard.
+3. After each guess you'll see the answer, where the story ran, and a link to the full article.
+4. At the end you get your score and a review of every card, plus a chance to retry the ones you missed.
 
-```
-python fetch_headlines.py --onion-pages 5
-```
+## Keeping it fair
 
-This rewrites `data/questions.js`. Commit and push it to update the live site.
+- **Same capitalization for every headline.** *The Onion* capitalizes every word and most news
+  sites don't, so every headline is shown in the same title case.
+- **No giveaway labels.** Prefixes like "Watch:" or "Look:" are removed.
+- **A balanced deck.** Each round is about half real and half satire, so guessing the same
+  answer every time won't get you far.
 
-## Running locally
+## Where the headlines come from
 
-Open `index.html` directly, or run `python -m http.server` and visit http://localhost:8000.
+- **Satire:** [The Onion](https://theonion.com)
+- **Real news:** stories collected on [r/nottheonion](https://www.reddit.com/r/nottheonion/), a
+  community for real news that sounds like satire, and [UPI Odd News](https://www.upi.com/Odd_News/)
+
+New headlines are added every week, so the deck keeps growing.
+
+All headlines and images belong to their publishers. Every card links to the original
+article, so you can read the full story.

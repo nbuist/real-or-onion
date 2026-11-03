@@ -13,14 +13,6 @@ and you decide: did it run in a real news outlet, or in *The Onion*?
 3. After each guess you'll see the answer, where the story ran, and a link to the full article.
 4. At the end you get your score and a review of every card, plus a chance to retry the ones you missed.
 
-## Keeping it fair
-
-- **Same capitalization for every headline.** *The Onion* capitalizes every word and most news
-  sites don't, so every headline is shown in the same title case.
-- **No giveaway labels.** Prefixes like "Watch:" or "Look:" are removed.
-- **A balanced deck.** Each round is about half real and half satire, so guessing the same
-  answer every time won't get you far.
-
 ## Where the headlines come from
 
 - **Satire:** [The Onion](https://theonion.com)

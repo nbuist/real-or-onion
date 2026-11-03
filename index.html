@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Real or Onion</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="logo">R/O</span> Real or Onion</div>
+    <div class="topbar-right">
+      <span id="progress-label" class="muted"></span>
+    </div>
+  </header>
+  <div class="progress"><div id="progress-fill"></div></div>
+
+  <main>
+    <!-- Start screen -->
+    <section id="start" class="screen">
+      <div class="card hero">
+        <h1>Real headline, or The Onion?</h1>
+        <p class="muted">Each card shows a headline and its article's image. Decide whether it ran in a real news outlet or in the satirical paper <em>The Onion</em>.</p>
+        <p class="muted small">Every headline is shown in title case, so capitalization won't give the answer away.</p>
+        <div class="length-picker" role="radiogroup" aria-label="Round length">
+          <button class="chip" data-len="10" aria-pressed="true">10 cards</button>
+          <button class="chip" data-len="20" aria-pressed="false">20 cards</button>
+          <button class="chip" data-len="all" aria-pressed="false">All</button>
+        </div>
+        <button id="start-btn" class="btn primary big">Start</button>
+        <p id="bank-info" class="muted small"></p>
+      </div>
+    </section>
+
+    <!-- Question screen -->
+    <section id="quiz" class="screen" hidden>
+      <div class="card question">
+        <div class="term-label muted small">Headline</div>
+        <div class="image-wrap" id="image-wrap">
+          <img id="q-image" alt="" referrerpolicy="no-referrer">
+        </div>
+        <h2 id="q-title"></h2>
+        <div class="divider"></div>
+        <div class="term-label muted small">Choose an answer</div>
+        <div class="answers">
+          <button class="answer" data-real="true"><kbd>1</kbd> Real news</button>
+          <button class="answer" data-real="false"><kbd>2</kbd> The Onion</button>
+        </div>
+        <div id="feedback" class="feedback" hidden>
+          <div id="feedback-text"></div>
+          <a id="feedback-link" target="_blank" rel="noopener">Read the article ↗</a>
+        </div>
+      </div>
+      <div class="quiz-footer">
+        <span class="muted small">Keys: 1 = Real, 2 = Onion, Enter = next</span>
+        <button id="next-btn" class="btn primary" hidden>Continue</button>
+      </div>
+    </section>
+
+    <!-- Results screen -->
+    <section id="results" class="screen" hidden>
+      <div class="card hero">
+        <h1 id="score-heading"></h1>
+        <p id="score-sub" class="muted"></p>
+        <div class="score-ring"><span id="score-pct"></span></div>
+        <div class="row">
+          <button id="again-btn" class="btn primary">Play again</button>
+          <button id="missed-btn" class="btn ghost">Retry missed</button>
+        </div>
+      </div>
+      <h3 class="review-heading">Your answers</h3>
+      <ol id="review" class="review"></ol>
+    </section>
+  </main>
+
+  <footer class="site-footer muted small">
+    Satire from <a href="https://theonion.com" target="_blank" rel="noopener">The Onion</a>; real headlines via
+    <a href="https://www.reddit.com/r/nottheonion/" target="_blank" rel="noopener">r/nottheonion</a> and
+    <a href="https://www.upi.com/Odd_News/" target="_blank" rel="noopener">UPI Odd News</a>.
+    Headlines and images belong to their publishers. <span id="generated"></span>
+  </footer>
+
+  <script src="data/questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

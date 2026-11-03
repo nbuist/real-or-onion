@@ -1,0 +1,35 @@
+name: Refresh headlines
+
+on:
+  schedule:
+    # Mondays at 17:00 UTC: noon Eastern in winter, 1 p.m. during daylight saving
+    - cron: "0 17 * * 1"
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch new headlines
+        run: python fetch_headlines.py --onion-pages 5
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/questions.js
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Weekly headline refresh"
+            git push
+          fi

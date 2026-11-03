@@ -8,6 +8,10 @@ Headlines and images belong to their publishers, and each card links to the orig
 
 ## Refreshing the headlines
 
+A GitHub Actions workflow (`.github/workflows/refresh-headlines.yml`) runs every Monday
+around noon Eastern, adds any new headlines to the bank, and commits them. You can also
+run it by hand from the Actions tab, or locally:
+
 ```
 python fetch_headlines.py --onion-pages 5
 ```

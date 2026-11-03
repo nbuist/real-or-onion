@@ -1,5 +1,5 @@
 window.QUESTION_BANK = {
- "generated": "2026-11-03 10:02",
+ "generated": "2026-11-03 10:14",
  "questions": [
   {
    "title": "Neglectful Voter Forced to Fill Out 6 Years’ Worth of Back Ballots",

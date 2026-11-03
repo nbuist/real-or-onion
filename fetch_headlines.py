@@ -148,6 +148,16 @@ def fetch_upi():
     return items
 
 
+def load_existing():
+    if not OUT.exists():
+        return []
+    text = OUT.read_text(encoding="utf-8")
+    try:
+        return json.loads(text[text.index("{"):text.rindex("}") + 1])["questions"]
+    except (ValueError, KeyError):
+        return []
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--onion-pages", type=int, default=3)
@@ -164,7 +174,11 @@ def main():
     upi = fetch_upi()
     print(f"  {len(upi)} headlines")
 
-    seen, questions = set(), []
+    # Keep what's already in the bank, so a source that fails this run
+    # (Reddit often blocks cloud servers) doesn't wipe out its headlines.
+    existing = load_existing()
+    seen = {q["original_title"].lower() for q in existing}
+    questions = []
     for q in onion + nto + upi:
         key = q["title"].lower()
         if not q["title"] or key in seen:
@@ -182,6 +196,8 @@ def main():
             for q, img in zip(need, pool.map(lambda q: og_image(q["url"]), need)):
                 q["image"] = img
 
+    print(f"{len(questions)} new headlines, {len(existing)} already in the bank")
+    questions += existing
     OUT.parent.mkdir(exist_ok=True)
     payload = {"generated": time.strftime("%Y-%m-%d %H:%M"), "questions": questions}
     # A .js file (not .json) so index.html works when opened straight from disk.

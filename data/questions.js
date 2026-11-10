@@ -1,6 +1,690 @@
 window.QUESTION_BANK = {
- "generated": "2026-11-03 15:15",
+ "generated": "2026-11-10 00:33",
  "questions": [
+  {
+   "title": "Entenmann’s CEO Announces He Happy to Share Donut Secrets With Chinese Spies in Exchange for Sex",
+   "url": "https://theonion.com/entenmanns-ceo-announces-he-happy-to-share-donut-secrets-with-chinese-spies-in-exchange-for-sex/",
+   "date": "Mon, 09 Nov 2026 22:50:32 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Entenmann’s CEO Announces He Happy To Share Donut Secrets With Chinese Spies In Exchange For Sex",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Entemanns_CEO_NIB_IHA_GR.jpg"
+  },
+  {
+   "title": "GOP Criticizes Trump for Promoting Stephen Miller Over Other, More Qualified Necrophiles",
+   "url": "https://theonion.com/gop-criticizes-trump-for-promoting-stephen-miller-over-other-more-qualified-necrophiles/",
+   "date": "Mon, 09 Nov 2026 20:54:13 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "GOP Criticizes Trump For Promoting Stephen Miller Over Other, More Qualified Necrophiles",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/GOP_Criticizes_NIB_G_PH_copy.jpg"
+  },
+  {
+   "title": "Tom Cruise Wakes Up Sleep-Climbing Burj Khalifa",
+   "url": "https://theonion.com/tom-cruise-wakes-up-sleep-climbing-burj-khalifa/",
+   "date": "Mon, 09 Nov 2026 17:37:34 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Tom Cruise Wakes Up Sleep-Climbing Burj Khalifa",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Tom_Cruise_Wakes_NIB_PH_G.jpg"
+  },
+  {
+   "title": "Man Does ‘Safety’ Signal Alone at TV",
+   "url": "https://theonion.com/man-does-safety-signal-alone-at-tv/",
+   "date": "Mon, 09 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Man Does ‘Safety’ Signal Alone At TV",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Man_Gives_Safety_Signal_SOCIAL_SB_IHA_GR_R.jpg"
+  },
+  {
+   "title": "Only Memory Child Has of $6,000 Vacation Throwing Up in Car",
+   "url": "https://theonion.com/only-memory-child-has-of-6000-vacation-throwing-up-in-car/",
+   "date": "Mon, 09 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Only Memory Child Has Of $6,000 Vacation Throwing Up In Car",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Only_Memory_Child-NIB-IHA_rgb.jpg"
+  },
+  {
+   "title": "Glistening, Ice-Cold Beer Makes Compelling Case for Losing Custody",
+   "url": "https://theonion.com/glistening-ice-cold-beer-makes-compelling-case-for-losing-custody/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Glistening, Ice-Cold Beer Makes Compelling Case For Losing Custody",
+   "image": "https://theonion.com/wp-content/uploads/2026/04/Glistening_Ice-Cold_NIB_G_GR-socials.jpg"
+  },
+  {
+   "title": "Tate McRae Reveals If She Stops Dancing She Dies",
+   "url": "https://theonion.com/tate-mcrae-reveals-if-she-stops-dancing-she-dies/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Tate McRae Reveals If She Stops Dancing She Dies",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Tate_McRae_NIB_G_PH.jpg"
+  },
+  {
+   "title": "Timeline of U.S. Arms Sales",
+   "url": "https://theonion.com/timeline-of-u-s-arms-sales/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Timeline Of U.S. Arms Sales",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/EXP_US_Arms_Sales_G_PH.jpg"
+  },
+  {
+   "title": "Uncarved Pumpkin Struggling With Survivor’s Guilt",
+   "url": "https://theonion.com/uncarved-pumpkin-struggling-with-survivors-guilt/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Uncarved Pumpkin Struggling With Survivor’s Guilt",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Uncarved_Pumpkin-NIB-PH-G.jpg"
+  },
+  {
+   "title": "New Generation Clarifies They’re Fine Not Having Own ‘Cat in the Hat’",
+   "url": "https://theonion.com/new-generation-clarifies-theyre-fine-not-having-own-cat-in-the-hat/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "New Generation Clarifies They’re Fine Not Having Own ‘Cat In The Hat’",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/New_Generation_NIB_MovieStills_PH.jpg"
+  },
+  {
+   "title": "Interior Department Approves Plan for Trump Commemorative Eagle",
+   "url": "https://theonion.com/interior-department-approves-plan-for-trump-commemorative-eagle/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Interior Department Approves Plan For Trump Commemorative Eagle",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Interior_Department_Approves_Plan-NIB-IHA_rgb.jpg"
+  },
+  {
+   "title": "Poll: Most Conservatives Support White Genocide When Shown Actual Policies",
+   "url": "https://theonion.com/poll-most-conservatives-support-white-genocide-when-shown-actual-policies/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Poll: Most Conservatives Support White Genocide When Shown Actual Policies",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Most_Conservatives_NIB_G_PH-R.jpg"
+  },
+  {
+   "title": "Pope, Bob Dylan Silently Play ‘Mario Kart’",
+   "url": "https://theonion.com/pope-bob-dylan-silently-play-mario-kart/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Pope, Bob Dylan Silently Play ‘Mario Kart’",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Pope_Bob_SB_G_GR-socials.jpg"
+  },
+  {
+   "title": "Natalie Olivera and Sara Berry",
+   "url": "https://theonion.com/natalie-olivera-and-sara-berry/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Natalie Olivera and Sara Berry",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Olivera_Berry-Wedding_SS_PH.jpg"
+  },
+  {
+   "title": "Stephanie Poulin and Liam Shea",
+   "url": "https://theonion.com/stephanie-poulin-and-liam-shea/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Stephanie Poulin and Liam Shea",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Shea_Poulin-Weddings_SS_PH.jpg"
+  },
+  {
+   "title": "Katherine McKnight and Mark Clegg",
+   "url": "https://theonion.com/katherine-mcknight-and-mark-clegg/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Katherine McKnight and Mark Clegg",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Clegg_McKnight-Wedding-SS-PH.jpg"
+  },
+  {
+   "title": "Lily Bowen and Mr. Novak",
+   "url": "https://theonion.com/lily-bowen-and-mr-novak/",
+   "date": "Fri, 06 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Lily Bowen and Mr. Novak",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Bowen_Novak-Wedding-SS-IHA.jpg"
+  },
+  {
+   "title": "Distraught Russell Brand Attempts to Overdose on Jewelry",
+   "url": "https://theonion.com/distraught-russell-brand-attempts-to-overdose-on-jewelry/",
+   "date": "Thu, 05 Nov 2026 20:41:35 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Distraught Russell Brand Attempts To Overdose On Jewelry",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Distraught_Russell_Brand_SB_IHA_GR-SOCIAL.jpg"
+  },
+  {
+   "title": "Alex Garland Regrets Blowing Most of ‘Elden Ring’ Budget on DEX",
+   "url": "https://theonion.com/alex-garland-regrets-blowing-most-of-elden-ring-budget-on-dex/",
+   "date": "Thu, 05 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Alex Garland Regrets Blowing Most Of ‘Elden Ring’ Budget On DEX",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Alex_Garland_NB_G_PH.jpg"
+  },
+  {
+   "title": "Study Finds Human Brain Capable of Storing Up to 40 Things",
+   "url": "https://theonion.com/study-finds-human-brain-capable-of-storing-up-to-40-things/",
+   "date": "Thu, 05 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Study Finds Human Brain Capable Of Storing Up To 40 Things",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Study_Finds_Human_Brain_Capable-NIB-PH_rgb.jpg"
+  },
+  {
+   "title": "Bain Capital Acquires Tibetan Buddhism for $35 Million",
+   "url": "https://theonion.com/bain-capital-acquires-tibetan-buddhism-for-35-million/",
+   "date": "Thu, 05 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Bain Capital Acquires Tibetan Buddhism For $35 Million",
+   "image": null
+  },
+  {
+   "title": "Room That Scares the Dog",
+   "url": "https://theonion.com/room-that-scares-the-dog/",
+   "date": "Thu, 05 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Room That Scares The Dog",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Room_That_Scares-Real_Estate-SS-IHA.jpg"
+  },
+  {
+   "title": "As Good as It Gets",
+   "url": "https://theonion.com/as-good-as-it-gets/",
+   "date": "Thu, 05 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "As Good As It Gets",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/As_Good-Real-Estate_SS_PH.jpg"
+  },
+  {
+   "title": "Cult Ascended to Heaven Here",
+   "url": "https://theonion.com/cult-ascended-to-heaven-here/",
+   "date": "Thu, 05 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Cult Ascended To Heaven Here",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Cult_Ascended-Real_Estate-SS-PH.jpg"
+  },
+  {
+   "title": "The Dump",
+   "url": "https://theonion.com/the-dump/",
+   "date": "Thu, 05 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "The Dump",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/The-Dump_Real-Estate_SS_PH.jpg"
+  },
+  {
+   "title": "Nation Watches Helplessly as 2028 Election Cycle Begins",
+   "url": "https://theonion.com/nation-watches-helplessly-as-2028-election-cycle-begins/",
+   "date": "Wed, 04 Nov 2026 21:09:39 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Nation Watches Helplessly As 2028 Election Cycle Begins",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Nation_Watches_NIB_IHA_GR.jpg"
+  },
+  {
+   "title": "Chuck Schumer Delivers Victory Speech to Previously Enthusiastic Crowd",
+   "url": "https://theonion.com/chuck-schumer-delivers-victory-speech-to-previously-enthusiastic-crowd/",
+   "date": "Wed, 04 Nov 2026 21:06:49 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Chuck Schumer Delivers Victory Speech To Previously Enthusiastic Crowd",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Chuck_Schumer_Delivers-NIB-PH-G.jpg"
+  },
+  {
+   "title": "Today’s Historic Front Page: November 4, 2026",
+   "url": "https://theonion.com/todays-historic-front-page-november-4-2026/",
+   "date": "Wed, 04 Nov 2026 20:14:29 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Today’s Historic Front Page: November 4, 2026",
+   "image": null
+  },
+  {
+   "title": "Haley Stevens High-Fiving Everyone at El-Sayed Victory Party Like Nothing Happened",
+   "url": "https://theonion.com/haley-stevens-high-fiving-everyone-at-el-sayed-victory-party-like-nothing-happened/",
+   "date": "Wed, 04 Nov 2026 19:58:20 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Haley Stevens High-Fiving Everyone At El-Sayed Victory Party Like Nothing Happened",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Haley_Stevens_High_Five_SB_IHA_GR-SOCIAL.jpg"
+  },
+  {
+   "title": "Abdul El-Sayed Makes History as First Physically Healthy Senator",
+   "url": "https://theonion.com/abdul-el-sayed-makes-history-as-first-physically-healthy-senator/",
+   "date": "Wed, 04 Nov 2026 17:53:08 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Abdul El-Sayed Makes History As First Physically Healthy Senator",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Abdul_El-Sayed_SB_G_PH-socials.jpg"
+  },
+  {
+   "title": "Dominatrix’s Kid Briefly Spotted in Doorway",
+   "url": "https://theonion.com/dominatrixs-kid-briefly-spotted-in-doorway/",
+   "date": "Wed, 04 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Dominatrix’s Kid Briefly Spotted In Doorway",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Dominatrixs_Kid_Briefly-SB_social.jpg"
+  },
+  {
+   "title": "Melania Trump Drops Accent While Visiting Parents in Iowa Hometown",
+   "url": "https://theonion.com/melania-trump-drops-accent-while-visiting-parents-in-iowa-hometown/",
+   "date": "Wed, 04 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Melania Trump Drops Accent While Visiting Parents In Iowa Hometown",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Melania_Trump_S_G_GR-socials.jpg"
+  },
+  {
+   "title": "Joe Mazzulla Uses Claude to Learn Why Jordan Walsh’s Hair Like That",
+   "url": "https://theonion.com/joe-mazzulla-uses-claude-to-learn-why-jordan-walshs-hair-like-that/",
+   "date": "Wed, 04 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Joe Mazzulla Uses Claude To Learn Why Jordan Walsh’s Hair Like That",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Joe_Mazzulla_Uses-NIB-PH-G.jpg"
+  },
+  {
+   "title": "Julie Marks",
+   "url": "https://theonion.com/julie-marks/",
+   "date": "Wed, 04 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Julie Marks",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Julie_Marks-Obits-SS-PH.jpg"
+  },
+  {
+   "title": "Jasper Collins",
+   "url": "https://theonion.com/jasper-collins/",
+   "date": "Wed, 04 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Jasper Collins",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Jasper_Collins-Obits-SS-PH.jpg"
+  },
+  {
+   "title": "Jimmy Chiarella",
+   "url": "https://theonion.com/jimmy-chiarella/",
+   "date": "Wed, 04 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Jimmy Chiarella",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Jimmy_Chiarella-OBITS-SS-PH.jpg"
+  },
+  {
+   "title": "Gina Billings",
+   "url": "https://theonion.com/gina-billings/",
+   "date": "Wed, 04 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Gina Billings",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Gina_Conrad-Obit-SS-PH.jpg"
+  },
+  {
+   "title": "St. Augustine of Hippo",
+   "url": "https://theonion.com/st-augustine-of-hippo/",
+   "date": "Wed, 04 Nov 2026 14:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "St. Augustine of Hippo",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/St.Auggie_Obit_G_PH.jpg"
+  },
+  {
+   "title": "Why Hasn’t Abdul El-Sayed Accomplished Any of His Campaign Goals Since Winning 2 Minutes Ago?",
+   "url": "https://theonion.com/why-hasnt-abdul-el-sayed-accomplished-any-of-his-campaign-goals-since-winning-2-minutes-ago/",
+   "date": "Wed, 04 Nov 2026 13:17:52 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Why Hasn’t Abdul El-Sayed Accomplished Any Of His Campaign Goals Since Winning 2 Minutes Ago?",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/ITK2604_DELIVERY_Webstill.jpg"
+  },
+  {
+   "title": "Polls Close Early as Reward for Everyone’s Hard Work",
+   "url": "https://theonion.com/polls-close-early-as-reward-for-everyones-hard-work/",
+   "date": "Tue, 03 Nov 2026 20:00:00 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Polls Close Early As Reward For Everyone’s Hard Work",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Polls_Close_Early_NIB_IHA_GR.jpg"
+  },
+  {
+   "title": "Steve Kornacki Crushes Millions of Tiny Voters While Sliding Hand Across Electoral Map",
+   "url": "https://theonion.com/steve-kornacki-crushes-millions-of-tiny-voters-while-sliding-hand-across-electoral-map/",
+   "date": "Tue, 03 Nov 2026 18:49:48 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "Steve Kornacki Crushes Millions Of Tiny Voters While Sliding Hand Across Electoral Map",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/Steve_Kornacki_SB_IHA_GR_SOCIAL.jpg"
+  },
+  {
+   "title": "GOP Sees Surge in Turnout of First-Time Voter Intimidators",
+   "url": "https://theonion.com/gop-sees-surge-in-turnout-from-first-time-voter-intimidators/",
+   "date": "Tue, 03 Nov 2026 17:05:43 +0000",
+   "source": "The Onion",
+   "real": false,
+   "original_title": "GOP Sees Surge In Turnout Of First-Time Voter Intimidators",
+   "image": "https://theonion.com/wp-content/uploads/2026/11/GOP_Sees_NIB_IHA_PH_Redeliver.jpg"
+  },
+  {
+   "title": "Man, 97, Dies at His Own Birthday Party Dancing to 'Staying' Alive'",
+   "url": "https://www.ndtv.com/world-news/man-97-dies-at-his-own-birthday-party-dancing-to-staying-alive-12287476",
+   "date": "2026-11-05T13:09:47+00:00",
+   "source": "ndtv.com",
+   "real": true,
+   "original_title": "Man, 97, Dies At His Own Birthday Party Dancing To 'Staying' Alive'",
+   "image": null
+  },
+  {
+   "title": "Democrat Who Stopped Running Elected to Iowa State Legislature Anyway",
+   "url": "https://www.newsnationnow.com/politics/2026-midterm-elections/democrat-stopped-running-elected-iowa",
+   "date": "2026-11-05T00:58:55+00:00",
+   "source": "newsnationnow.com",
+   "real": true,
+   "original_title": "Democrat who stopped running elected to Iowa state legislature anyway",
+   "image": null
+  },
+  {
+   "title": "Kellogg’s Removes Rice Grains From Rice Krispies Due to ‘Changing Weather’",
+   "url": "https://www.northwichguardian.co.uk/news/national/26695515.kelloggs-removes-rice-grains-rice-krispies-due-changing-weather/",
+   "date": "2026-11-03T22:11:18+00:00",
+   "source": "northwichguardian.co.uk",
+   "real": true,
+   "original_title": "Kellogg’s removes rice grains from Rice Krispies due to ‘changing weather’",
+   "image": "https://www.northwichguardian.co.uk/resources/images/21665934.jpg?type=og-image"
+  },
+  {
+   "title": "Defeated Republican \"Claims Not Even Jesus Could Have Won His Midterms Race\"",
+   "url": "https://www.the-independent.com/news/world/americas/us-politics/republican-midterms-mike-lawler-jesus-new-york-b3079868.html",
+   "date": "2026-11-05T17:36:45+00:00",
+   "source": "the-independent.com",
+   "real": true,
+   "original_title": "Defeated Republican \"claims not even Jesus could have won his midterms race\"",
+   "image": "https://static.the-independent.com/2026/11/05/15/2302982311..?trim=0,96,0,96&width=1200&height=800&crop=1200:800"
+  },
+  {
+   "title": "Three Italian Friends Fly 1,000 Miles to Ireland Dressed as 'Hobbits' to Return Man's Lost Wedding Ring",
+   "url": "https://www.fashiontimes.co.uk/italian-hobbits-return-lost-wedding-ring-1767210",
+   "date": "2026-11-06T12:54:54+00:00",
+   "source": "fashiontimes.co.uk",
+   "real": true,
+   "original_title": "Three Italian Friends Fly 1,000 Miles to Ireland Dressed as 'Hobbits' To Return Man's Lost Wedding Ring",
+   "image": "https://d.fashiontimes.co.uk/en/full/1785423/italian-friends-return-lost-wedding-ring.png"
+  },
+  {
+   "title": "\"Ram Altman\" Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC",
+   "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+   "date": "2026-11-08T13:52:07+00:00",
+   "source": "respawnfirst.com",
+   "real": true,
+   "original_title": "\"Ram Altman\" Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC",
+   "image": "https://respawnfirst.com/wp-content/uploads/2026/11/ram-altman-github.webp"
+  },
+  {
+   "title": "A US Official Just Joined Russia’s Special Forces. He Still Holds Office in Vermont",
+   "url": "https://united24media.com/world/a-us-official-just-joined-russias-special-forces-he-still-holds-office-in-vermont-24191",
+   "date": "2026-11-09T16:22:00+00:00",
+   "source": "united24media.com",
+   "real": true,
+   "original_title": "A US Official Just Joined Russia’s Special Forces. He Still Holds Office in Vermont",
+   "image": "https://storage.united24media.com/og/1/ae/473eff47f71e102f5b73a04184db0ae1.png"
+  },
+  {
+   "title": "An IPhone Froze a Couple's FaceTime Call After She Flashed Her Boyfriend",
+   "url": "https://www.techtimes.co.uk/apple-facetime-nudity-warning-privacy-1809115",
+   "date": "2026-11-03T05:40:49+00:00",
+   "source": "techtimes.co.uk",
+   "real": true,
+   "original_title": "An iPhone Froze a Couple's FaceTime Call After She Flashed Her Boyfriend",
+   "image": "https://d.techtimes.co.uk/en/full/1819922/woman-using-phone.jpg"
+  },
+  {
+   "title": "Shanghai Store Replaces Staff With Six Humanoid Robots for 24 Hours – One Walks Off the Job",
+   "url": "https://mezha.ua/en/news/humanoid-robots-work-24-hour-store-shift-316912/",
+   "date": "2026-11-06T12:41:17+00:00",
+   "source": "mezha.ua",
+   "real": true,
+   "original_title": "Shanghai Store Replaces Staff With Six Humanoid Robots for 24 Hours – One Walks Off the Job",
+   "image": null
+  },
+  {
+   "title": "Google to Cut Search Access for Schools That Completely Block New AI Tools",
+   "url": "https://www.fox29.com/news/google-cut-search-access-schools-completely-block-new-ai-tools",
+   "date": "2026-11-03T18:14:54+00:00",
+   "source": "fox29.com",
+   "real": true,
+   "original_title": "Google to cut Search access for schools that completely block new AI tools",
+   "image": "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2021/12/1200/630/google1.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Stuck Squirrel Rescued From Resident's Bird Feeder",
+   "url": "https://www.upi.com/Odd_News/2026/11/09/britiain-Berkshire-firefighters-squirrel-bird-feeder/7921794253473/",
+   "date": "Mon, 09 Nov 2026 14:46:49 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/7921794253473/2026/i/17942535946037/v1.5/Stuck-squirrel-rescued-from-residents-bird-feeder.jpg",
+   "original_title": "Stuck squirrel rescued from resident's bird feeder"
+  },
+  {
+   "title": "$50,000 Lottery Ticket Was Almost a Birthday Present",
+   "url": "https://www.upi.com/Odd_News/2026/11/09/lotto-Maryland-lottery-scratch-off-birthday/7381794253196/",
+   "date": "Mon, 09 Nov 2026 14:41:09 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/7381794253196/2026/upi/0143abb5301ae6fa4c0de7dedbeeb45a/v1.5/50000-lottery-ticket-was-almost-a-birthday-present.jpg",
+   "original_title": "$50,000 lottery ticket was almost a birthday present"
+  },
+  {
+   "title": "Kitten Dubbed 'Chicken Nugget' After N.Y. Storm Drain Rescue",
+   "url": "https://www.upi.com/Odd_News/2026/11/09/chicken-nugget-kitten-rescue-deer-park/3731794250638/",
+   "date": "Mon, 09 Nov 2026 14:01:05 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/3731794250638/2026/i/17942508512749/v1.5/Kitten-dubbed-Chicken-Nugget-after-NY-storm-drain-rescue.jpg",
+   "original_title": "Kitten dubbed 'Chicken Nugget' after N.Y. storm drain rescue"
+  },
+  {
+   "title": "Holmes, Fielder Look-alikes Compete in San Francisco Contest",
+   "url": "https://www.upi.com/Odd_News/2026/11/09/elizabeth-holmes-nathan-fielder-look-alike-contest/2211794249934/",
+   "date": "Mon, 09 Nov 2026 13:50:27 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/2211794249934/2026/i/17942501324809/v1.5/Holmes-Fielder-look-alikes-compete-in-San-Francisco-contest.jpg",
+   "original_title": "Holmes, Fielder look-alikes compete in San Francisco contest"
+  },
+  {
+   "title": "Father and Son Don Blindfolds to Break Hungry Hungry Hippos Record",
+   "url": "https://www.upi.com/Odd_News/2026/11/09/guinness-world-records-david-rush-hungry-hippos-blindfolded/3501794246098/",
+   "date": "Mon, 09 Nov 2026 12:46:11 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/3501794246098/2026/i/17942463551164/v1.5/Father-and-son-don-blindfolds-to-break-Hungry-Hungry-Hippos-record.jpg",
+   "original_title": "Father and son don blindfolds to break Hungry Hungry Hippos record"
+  },
+  {
+   "title": "Hundreds Gather to Attempt to 'Move the Bean' in Chicago",
+   "url": "https://www.upi.com/Odd_News/2026/11/09/move-the-bean-chicago-cloud-gate/3341794244560/",
+   "date": "Mon, 09 Nov 2026 12:23:29 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/3341794244560/2026/i/17942447578203/v1.5/Hundreds-gather-to-attempt-to-move-The-Bean-in-Chicago.jpg",
+   "original_title": "Hundreds gather to attempt to 'move The Bean' in Chicago"
+  },
+  {
+   "title": "Rubik's Cube Enthusiast Sprints to Guinness World Records Title",
+   "url": "https://www.upi.com/Odd_News/2026/11/06/guinness-world-records-puzzle-cube-mile/9871793989473/",
+   "date": "Fri, 06 Nov 2026 13:27:06 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/9871793989473/2026/i/17939896017491/v1.5/Rubiks-cube-enthusiast-sprints-to-Guinness-World-Records-title.jpg",
+   "original_title": "Rubik's cube enthusiast sprints to Guinness World Records title"
+  },
+  {
+   "title": "Escaped Piglets Detained for 'Fleeing and Squealing' in S.C.",
+   "url": "https://www.upi.com/Odd_News/2026/11/06/beaufort-south-carolina-escaped-piglets/7441793988332/",
+   "date": "Fri, 06 Nov 2026 13:08:42 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/7441793988332/2026/i/17939885046215/v1.5/Escaped-piglets-detained-for-fleeing-and-squealing-in-SC.jpg",
+   "original_title": "Escaped piglets detained for 'fleeing and squealing' in S.C."
+  },
+  {
+   "title": "'Large' Cow Eludes Capture in Massachusetts",
+   "url": "https://www.upi.com/Odd_News/2026/11/06/marshfield-massachusetts-loose-cow/1221793985650/",
+   "date": "Fri, 06 Nov 2026 12:24:26 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/1221793985650/2026/upi/1f76990f3d7a860708cad97bc0c88b60/v1.5/Large-cow-eludes-capture-in-Massachusetts.jpg",
+   "original_title": "'Large' cow eludes capture in Massachusetts"
+  },
+  {
+   "title": "N.C. Farmer Finds Apparent Fence Post Was Escaped Boa Constrictor",
+   "url": "https://www.upi.com/Odd_News/2026/11/06/hoke-county-boa-constrictor-fence-post/2711793982017/",
+   "date": "Fri, 06 Nov 2026 11:23:28 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/2711793982017/2026/i/17939821441203/v1.5/NC-farmer-finds-apparent-fence-post-was-escaped-boa-constrictor.jpg",
+   "original_title": "N.C. farmer finds apparent fence post was escaped boa constrictor"
+  },
+  {
+   "title": "Runaway Parakeet Rescued From Storm Drain",
+   "url": "https://www.upi.com/Odd_News/2026/11/05/rspca-parakeet-storm-drain/8061793901713/",
+   "date": "Thu, 05 Nov 2026 13:05:56 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/8061793901713/2026/i/17939018548674/v1.5/Runaway-parakeet-rescued-from-storm-drain.jpg",
+   "original_title": "Runaway parakeet rescued from storm drain"
+  },
+  {
+   "title": "Gas Pump Malfunction Leads N.C. Man to $2M Lottery Prize",
+   "url": "https://www.upi.com/Odd_News/2026/11/05/lotto-North-Carolina-Education-lottery-gas-pump-printer/6081793900865/",
+   "date": "Thu, 05 Nov 2026 12:50:16 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/6081793900865/2026/i/17939010034538/v1.5/Gas-pump-malfunction-leads-NC-man-to-2M-lottery-prize.jpg",
+   "original_title": "Gas pump malfunction leads N.C. man to $2M lottery prize"
+  },
+  {
+   "title": "British Town Crier Is the World's Loudest Woman",
+   "url": "https://www.upi.com/Odd_News/2026/11/05/guinness-world-records-loudest-shout-woman/5911793895144/",
+   "date": "Thu, 05 Nov 2026 11:17:08 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/5911793895144/2026/i/17938952681767/v1.5/British-town-crier-is-the-worlds-loudest-woman.jpg",
+   "original_title": "British town crier is the world's loudest woman"
+  },
+  {
+   "title": "Connecticut Animal Control Officers Round Up Loose Emu",
+   "url": "https://www.upi.com/Odd_News/2026/11/05/thompson-connecticut-loose-emu/2581793894149/",
+   "date": "Thu, 05 Nov 2026 10:58:11 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/2581793894149/2026/i/17938942433106/v1.5/Connecticut-animal-control-officers-round-up-loose-emu.jpg",
+   "original_title": "Connecticut animal control officers round up loose emu"
+  },
+  {
+   "title": "Dog Puts Clothes Pins on Laundry Line to Break World Record",
+   "url": "https://www.upi.com/Odd_News/2026/11/04/guinness-world-records-dog-clothes-pins/4001793817273/",
+   "date": "Wed, 04 Nov 2026 13:38:58 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/4001793817273/2026/i/17938175082853/v1.5/Dog-puts-clothes-pins-on-laundry-line-to-break-world-record.jpg",
+   "original_title": "Dog puts clothes pins on laundry line to break world record"
+  },
+  {
+   "title": "British Police Say Chopper's Phallic Flight Pattern Was Unintentional",
+   "url": "https://www.upi.com/Odd_News/2026/11/04/national-police-air-service-genitalia/1211793815983/",
+   "date": "Wed, 04 Nov 2026 13:19:18 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/1211793815983/2026/upi_com/08c0f34f659151ec2dfbcc5274de1746/v1.5/British-police-say-choppers-phallic-flight-pattern-was-unintentional.jpg",
+   "original_title": "British police say chopper's phallic flight pattern was unintentional"
+  },
+  {
+   "title": "Trapped Deer Rescued From Michigan Swimming Pool",
+   "url": "https://www.upi.com/Odd_News/2026/11/04/deer-pool-livonia-michigan/3761793811639/",
+   "date": "Wed, 04 Nov 2026 12:02:39 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/3761793811639/2026/i/17938117189336/v1.5/Trapped-deer-rescued-from-Michigan-swimming-pool.jpg",
+   "original_title": "Trapped deer rescued from Michigan swimming pool"
+  },
+  {
+   "title": "Maintenance Worker Finds Ball Python in California Park Trash",
+   "url": "https://www.upi.com/Odd_News/2026/11/04/pasadena-humane-glendale-park-trash-python/1001793810636/",
+   "date": "Wed, 04 Nov 2026 11:46:48 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/1001793810636/2026/i/17938107678701/v1.5/Maintenance-worker-finds-ball-python-in-California-park-trash.jpg",
+   "original_title": "Maintenance worker finds ball python in California park trash"
+  },
+  {
+   "title": "Detroit Man's 11,578-pound Rubber Band Ball Is the World's Largest",
+   "url": "https://www.upi.com/Odd_News/2026/11/03/guinness-world-records-largest-rubber-band-ball/4121793732579/",
+   "date": "Tue, 03 Nov 2026 14:06:25 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/4121793732579/2026/i/17937327704614/v1.5/Detroit-mans-11578-pound-rubber-band-ball-is-the-worlds-largest.jpg",
+   "original_title": "Detroit man's 11,578-pound rubber band ball is the world's largest"
+  },
+  {
+   "title": "Virginia Brothers Split $200,000 Powerball Prize",
+   "url": "https://www.upi.com/Odd_News/2026/11/03/lotto-Virginia-Lottery-powerball-brothers/6371793731943/",
+   "date": "Tue, 03 Nov 2026 13:53:52 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/6371793731943/2026/upi/496552d78226f4e2c08feb08bcae2000/v1.5/Virginia-brothers-split-200000-Powerball-prize.jpg",
+   "original_title": "Virginia brothers split $200,000 Powerball prize"
+  },
+  {
+   "title": "Fox Interrupts Professional Soccer Game in Turkey",
+   "url": "https://www.upi.com/Odd_News/2026/11/03/turkey-soccer-game-fox-kayseri/1171793729955/",
+   "date": "Tue, 03 Nov 2026 13:23:58 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/1171793729955/2026/i/17937301824100/v1.5/Fox-interrupts-professional-soccer-game-in-Turkey.jpg",
+   "original_title": "Fox interrupts professional soccer game in Turkey"
+  },
+  {
+   "title": "Alligator Walks Into North Carolina Bagel Shop",
+   "url": "https://www.upi.com/Odd_News/2026/11/03/alligator-bagel-store-southport-north-carolina/6751793729245/",
+   "date": "Tue, 03 Nov 2026 13:12:06 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/6751793729245/2026/i/17937294916036/v1.5/Alligator-walks-into-North-Carolina-bagel-shop.jpg",
+   "original_title": "Alligator walks into North Carolina bagel shop"
+  },
+  {
+   "title": "Mystery Monkey on the Loose in Tennessee County",
+   "url": "https://www.upi.com/Odd_News/2026/11/03/monkey-loose-crockett-county-tennessee/3321793723680/",
+   "date": "Tue, 03 Nov 2026 11:44:12 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/3321793723680/2026/upi/22da648d94fca01e7a78bdd9f2c1a3ed/v1.5/Mystery-monkey-on-the-loose-in-Tennessee-county.jpg",
+   "original_title": "Mystery monkey on the loose in Tennessee county"
+  },
+  {
+   "title": "Police Find Three Escaped Alpacas Wandering Loose in Maine",
+   "url": "https://www.upi.com/Odd_News/2026/11/03/escaped-alpacas-scarborough-maine/3171793722729/",
+   "date": "Tue, 03 Nov 2026 11:21:06 -0500",
+   "source": "UPI",
+   "real": true,
+   "image": "https://cdnph.upi.com/ph/st/th/3171793722729/2026/i/17937228443508/v1.5/Police-find-three-escaped-alpacas-wandering-loose-in-Maine.jpg",
+   "original_title": "Police find three escaped alpacas wandering loose in Maine"
+  },
   {
    "title": "Neglectful Voter Forced to Fill Out 6 Years’ Worth of Back Ballots",
    "url": "https://theonion.com/neglectful-voter-forced-to-fill-out-6-years-worth-of-back-ballots/",
